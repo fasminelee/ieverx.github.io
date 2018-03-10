@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 天外天</title>
+    <link>http://blog.evercoding.net/tags/hugo/</link>
+    <description>Recent content in Hugo on 天外天</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 10 Mar 2018 15:48:40 +0800</lastBuildDate>
+    
+	<atom:link href="http://blog.evercoding.net/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>从Jekyll迁移到Hugo</title>
+      <link>http://blog.evercoding.net/post/jekyll-to-hugo/</link>
+      <pubDate>Sat, 10 Mar 2018 15:48:40 +0800</pubDate>
+      
+      <guid>http://blog.evercoding.net/post/jekyll-to-hugo/</guid>
+      <description>最近把博客从Jekyll迁移到了Hugo，在这里记录一下。 之前一直使用Jekyll，最大的原因是Github Pages原生支持Jekyll，</description>
+    </item>
+    
+  </channel>
+</rss>

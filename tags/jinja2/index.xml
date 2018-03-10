@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinja2 on 天外天</title>
+    <link>http://blog.evercoding.net/tags/jinja2/</link>
+    <description>Recent content in Jinja2 on 天外天</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 03 Mar 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.evercoding.net/tags/jinja2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>web.py中自定义jinja2模块</title>
+      <link>http://blog.evercoding.net/post/custom-jinja2-module-in-webpy/</link>
+      <pubDate>Sun, 03 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.evercoding.net/post/custom-jinja2-module-in-webpy/</guid>
+      <description>web.py是一个轻量级的Python web开发框架，不过自带的模板自己很不习惯，就换成了jinja2。web.py已经封装了jinja2的</description>
+    </item>
+    
+  </channel>
+</rss>
